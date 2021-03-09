@@ -1,0 +1,10 @@
+debug/Afferenza.o
+debug/Articolo.o
+debug/Autore.o
+debug/Conferenza.o
+debug/Data.o
+debug/Database.o
+debug/Rivista.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_mainwindow.o

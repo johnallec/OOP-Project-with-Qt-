@@ -1,0 +1,10 @@
+release/Afferenza.o
+release/Articolo.o
+release/Autore.o
+release/Conferenza.o
+release/Data.o
+release/Database.o
+release/Rivista.o
+release/main.o
+release/mainwindow.o
+release/moc_mainwindow.o
