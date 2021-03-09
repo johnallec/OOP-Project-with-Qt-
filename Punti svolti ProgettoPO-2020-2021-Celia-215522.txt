@@ -1,0 +1,20 @@
+SEZIONE B
+
+1-4-5
+
+SEZIONE C
+
+1-2-6*
+
+SEZIONE D
+
+2-6*
+
+SEZIONE E
+
+6*
+
+SEZIONE F
+
+4**
+
